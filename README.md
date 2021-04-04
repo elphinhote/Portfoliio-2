@@ -21,7 +21,7 @@ An updated resume.
 Preview
 
 
-![Portfolio Page](https://user-images.githubusercontent.com/65749636/110235007-973d0780-7ee2-11eb-9426-42c000bbd20e.PNG)
+![Portfolio Page](https://user-images.githubusercontent.com/65749636/113520037-2d496980-9545-11eb-9f4b-20e55f0b6ac2.png)
 
 
 
@@ -30,6 +30,6 @@ Preview
 
 ## Links
 
-Code Repository: ![image](https://user-images.githubusercontent.com/65749636/113520037-2d496980-9545-11eb-9f4b-20e55f0b6ac2.png)
+Code Repository: https://github.com/elphinhote/Portfoliio-2/
 
 Deployed Site:  https://elphinhote.github.io/Portfoliio-2/
