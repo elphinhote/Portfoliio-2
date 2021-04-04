@@ -1,5 +1,5 @@
 # Portfolio-2
-Updated Portfolio
+Updated Portfolio with recent assignments and Project.
 
 ## Description
 
