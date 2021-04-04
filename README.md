@@ -30,6 +30,6 @@ Preview
 
 ## Links
 
-Code Repository: https://github.com/elphinhote/Portfoliio-2  
+Code Repository: ![image](https://user-images.githubusercontent.com/65749636/113520037-2d496980-9545-11eb-9f4b-20e55f0b6ac2.png)
 
 Deployed Site:  https://elphinhote.github.io/Portfoliio-2/
